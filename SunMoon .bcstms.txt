@@ -1,0 +1,92 @@
+Trainer School: bgm_nj_school.dspadpcm.bcstm
+Professor Kukui's Lab: bgm_nj_labo01.dspadpcm.bcstm
+Professor Kukui's Wife's Lab: bgm_nj_labo02.dspadpcm.bcstm
+Victory Totem: bgm_nj_win9.dspadpcm.bcstm
+Victory Wild Pokemon: bgm_nj_win1.dspadpcm.bcstm
+Victory Trainer: bgm_nj_win2.dspadpcm.bcstm
+Victory Team Skull Grunt: bgm_nj_win4.dspadpcm.bcstm
+Victory Aether Foundation: bgm_nj_win5.dspadpcm.bcstm
+Victory Champion: bgm_nj_win6.dspadpcm.bcstm
+Victory Kahuna: bgm_nj_win3.dspadpcm.bcstm
+Victory Team Skull Admin/Boss: bgm_nj_win4.dspadpcm.bcstm
+Victory Road: bgm_nj_champroad.dspadpcm.bcstm.bcstm
+Player's House: bgm_nj_e11_02.dspadpcm.bcstm.bcstm
+Standard Trainer Eye: bgm_nj_eye01.dspadpcm.bcstm
+Team Skull grunt Eye: bgm_nj_eye02.dspadpcm.bcstm
+Aether Foundation Eye: bgm_nj_eye03.dspadpcm.bcstm
+Hau Encounter: bgm_nj_e02.dspadpcm.bcstm
+Gladion Encounter: bgm_nj_e05.dspadpcm.bcstm
+Guzma Encounter: bgm_nj_e08.dspadpcm.bcstm
+UB-02 Appears: bgm_nj_e21.dspadpcm.bcstm
+Island Trial: bgm_nj_e24.dspadpcm.bcstm
+Evolution: bgm_nj_shinka01.dspadpcm.bcstm
+Evolution Complete: me_nj_shinkaome.dspadpcm.bcstm
+Market: bgm_nj_market01.dspadpcm.bcstm
+Welcome to the World of Pokemon: bgm_nj_starting.dspadpcm.bcstm
+Pokemon Center: bgm_nj_pokecen.dspadpcm.bcstm
+Follow Me!: bgm_nj_e_tsureteke.dspadpcm.bcstm
+VS Trainer battle: bgm_nj_vs_trainer.dspadpcm.bcstm
+VS Wild Pokemon battle: bgm_nj_vs_norapoke.dspadpcm.bcstm
+VS Totem Battle: bgm_nj_vs_norapoke_02.dspadpcm.bcstm
+VS Kahuna battle: bgm_nj_giver.dspadpcm.bcstm
+VS Champion: bgm_nj_vs_champ.dspadpcm.bcstm
+VS Aether Foundation Grunt: bgm_nj_vs_ether.dspadpcm.bcstm
+VS Lusamine: bgm_nj_vs_mother.dspadpcm.bcstm
+VS Lusamine Beast: bgm_nj_vs_motherbeast.dspadpcm.bcstm
+VS Elite Four battle: bgm_nj_vs_shitenno.dspadpcm.bcstm
+VS Rival Gladion: bgm_nj_vs_rival.dspadpcm.bcstm
+VS Rival Hau battle: bgm_nj_vs_friend.dspadpcm.bcstm
+Victory Gladion: bgm_nj_win04.dspadpcm.bcstm
+Victory Rival Hau: bgm_nj_win02_st.dspadpcm.bcstm
+VS Team Skull Admin: bgm_nj_vs_scullelite.dspadpcm.bcstm
+VS Team Skull Boss: bgm_nj_vs_scullboss.dspadpcm.bcstm
+VS Team Skull Grunt: bgm_nj_vs_scull.dspadpcm.bcstm
+Base/Hideout: bgm_nj_base.dspadpcm.bcstm
+Battle VS Ultra Beast: bgm_nj_vs_beast.dspadpcm.bcstm
+Battle Royal Battle Theme: bgm_nj_vs_broyal.dspadpcm.bcstm
+Professor Kukui's theme: bgm_nj_e_doctor.dspadpcm.bcstm
+Poke Ride (Tauros): bgm_nj_pokeride01.dspadpcm.bcstm
+Poke Ride (Surfing): bgm_nj_pokeride02.dspadpcm.bcstm
+Hau'oli City (Day): bgm_nj_c01.dspadpcm.bcstm
+Hau'oli City (Night): bgm_nj_c01_n.dspadpcm.bcstm
+Haina Desert: bgm_nj_desert.dspadpcm.bcstm
+Malie City (Day): bgm_nj_c05.dspadpcm.bcstm
+Malie City (Night): bgm_nj_c05_n.dspadpcm.bcstm
+Route 1: bgm_nj_r01.dspadpcm.bcstm
+Route 2: bgm_nj_r_02.dspadpcm.bcstm
+Route 3: bgm_nj_r_03.dspadpcm.bcstm
+Route 4: bgm_nj_r_04.dspadpcm.bcstm
+Route 5: bgm_nj_r_05.dspadpcm.bcstm
+Route 6: bgm_nj_r_06.dspadpcm.bcstm
+Seafolk Village (Day): bgm_nj_t04.dspadpcm.bcstm
+Seafolk Village (Night): bgm_nj_t04_n.dspadpcm.bcstm
+Paniola Town (Day): bgm_nj_t02.dspadpcm.bcstm
+Paniola Town (Night): bgm_nj_t02_n.dspadpcm.bcstm
+Iki Town (Festival): bgm_nj_lilii_fes.dspadpcm.bcstm
+Iki Town (Day): bgm_nj_t01.dspadpcm.bcstm
+Iki Town (Night): bgm_nj_t01_n.dspadpcm.bcstm
+Heahea City (Day): bgm_nj_02.dspadpcm.bcstm
+Heahea City (Night): bgm_nj_02_n.dspadpcm.bcstm
+Konikoni City (Day): bgm_nj_c03.dspadpcm.bcstm
+Konikoni City (Night): bgm_nj_c03_n.dspadpcm.bcstm
+Royal Avenue: bgm_nj_croyal.dspadpcm.bcstm
+Battle Royal Battle: bgm_nj_vs_broyal.dspadpcm.bcstm
+Malasada Shop: bgm_nj_malasada.dspadpcm.bcstm
+Team Skull Overworld Theme: bgm_nj_e16.dspadpcm.bcstm
+Guzma Encounter Theme: bgm_nj_e08.dspadpcm.bcstm
+Player's House: bgm_nj_e11_02.dspadpcm.bcstm
+Spearow Attacking Nebby: bgm_nj_e12.dspadpcm.bcstm
+Hoenn Frontier Brain: bgm_nj_e15.dspadpcm.bcstm
+UBs in the Wild: bgm_nj_e21.dspadpcm.bcstm
+Island Trial Music: bgm_nj_e24.dspadpcm.bcstm
+Encounter Totem: bgm_nj_e25.dspadpcm.bcstm
+Kiawe's Trial: bgm_nj_e26.dspadpcm.bcstm
+Trainer Battle Eye: bgm_nj_eye01.dspadpcm.bcstm
+Team Skull Grunt Eye: bgm_nj_eye02.dspadpcm.bcstm
+Aether Foundation Eye: bgm_nj_eye03.dspadpcm.bcstm
+X&Y Trainer Battle: bgm_nj_niji02.dspadpcm.bcstm
+BW/BW2 Elite Four: bgm_nj_niji03.dspadpcm.bcstm
+Wally: bgm_nj_niji04.dspadpcm.bcstm
+Colress: bgm_nj_niji05.dspadpcm.bcstm
+Pokemon World Champion: bgm_xy_vs_secret_01.dspadpcm.bcstm
+Cynthia: bgm_nj_refre.dspadpcm.bcstm
