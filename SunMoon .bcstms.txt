@@ -49,8 +49,8 @@ Paniola Town (Night): bgm_nj_t02_n.dspadpcm.bcstm
 Iki Town (Festival): bgm_nj_lilii_fes.dspadpcm.bcstm
 Iki Town (Day): bgm_nj_t01.dspadpcm.bcstm
 Iki Town (Night): bgm_nj_t01_n.dspadpcm.bcstm
-Heahea City (Day): bgm_nj_02.dspadpcm.bcstm
-Heahea City (Night): bgm_nj_02_n.dspadpcm.bcstm
+Heahea City (Day): bgm_nj_c02.dspadpcm.bcstm
+Heahea City (Night): bgm_nj_c02_n.dspadpcm.bcstm
 Konikoni City (Day): bgm_nj_c03.dspadpcm.bcstm
 Konikoni City (Night): bgm_nj_c03_n.dspadpcm.bcstm
 Royal Avenue: bgm_nj_croyal.dspadpcm.bcstm
@@ -66,12 +66,10 @@ Guzma Encounter: bgm_nj_e08.dspadpcm.bcstm
 UB-02 Appears: bgm_nj_e21.dspadpcm.bcstm
 Professor Kukui's theme: bgm_nj_e_doctor.dspadpcm.bcstm
 Team Skull Overworld Theme: bgm_nj_e16.dspadpcm.bcstm
-Guzma Encounter Theme: bgm_nj_e08.dspadpcm.bcstm
-UBs in the Wild: bgm_nj_e21.dspadpcm.bcstm
 Encounter Totem: bgm_nj_e25.dspadpcm.bcstm
 
 Routes:
-Victory Road: bgm_nj_champroad.dspadpcm.bcstm.bcstm
+Victory Road: bgm_nj_champroad.dspadpcm.bcstm
 Route 1: bgm_nj_r01.dspadpcm.bcstm
 Route 2: bgm_nj_r_02.dspadpcm.bcstm
 Route 3: bgm_nj_r_03.dspadpcm.bcstm
@@ -86,7 +84,7 @@ Welcome to the World of Pokemon: bgm_nj_starting.dspadpcm.bcstm
 Follow Me!: bgm_nj_e_tsureteke.dspadpcm.bcstm
 
 Poke Rides:
-Poke Ride (Tauros): bgm_nj_pokeride01.dspadpcm.bcstm
+Poke Ride (Land): bgm_nj_pokeride01.dspadpcm.bcstm
 Poke Ride (Surfing): bgm_nj_pokeride02.dspadpcm.bcstm
 
 Cutscenes: 
