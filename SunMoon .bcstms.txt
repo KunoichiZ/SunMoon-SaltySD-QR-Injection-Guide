@@ -20,13 +20,13 @@ Victory Themes:
 Victory Totem: bgm_nj_win9.dspadpcm.bcstm
 Victory Wild Pokemon: bgm_nj_win1.dspadpcm.bcstm
 Victory Trainer: bgm_nj_win2.dspadpcm.bcstm
-Victory Team Skull Grunt: bgm_nj_win4.dspadpcm.bcstm
+Victory Team Skull Grunt: ?
 Victory Aether Foundation: bgm_nj_win5.dspadpcm.bcstm
 Victory Champion: bgm_nj_win6.dspadpcm.bcstm
 Victory Kahuna: bgm_nj_win3.dspadpcm.bcstm
-Victory Team Skull Admin/Boss: bgm_nj_win4.dspadpcm.bcstm
-Victory Gladion: bgm_nj_win04.dspadpcm.bcstm
-Victory Rival Hau: bgm_nj_win02_st.dspadpcm.bcstm
+Victory Team Skull Admin/Boss: ?
+Victory Gladion: ?
+Victory Rival Hau: bgm_nj_win2_st.dspadpcm.bcstm
 
 Buildings/Cities/Towns/Locations:
 Trainer School: bgm_nj_school.dspadpcm.bcstm
