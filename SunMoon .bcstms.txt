@@ -2,6 +2,7 @@ Trainer Themes:
 VS Trainer battle: bgm_nj_vs_trainer.dspadpcm.bcstm
 VS Wild Pokemon battle: bgm_nj_vs_norapoke.dspadpcm.bcstm
 VS Totem Battle: bgm_nj_vs_norapoke_02.dspadpcm.bcstm
+VS Tapus: bgm_nj_vs_legend.dspadpcm.bcstm
 VS Kahuna battle: bgm_nj_giver.dspadpcm.bcstm
 VS Champion: bgm_nj_vs_champ.dspadpcm.bcstm
 VS Aether Foundation Grunt: bgm_nj_vs_ether.dspadpcm.bcstm
