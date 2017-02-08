@@ -14,6 +14,8 @@ VS Rival Hau battle: bgm_nj_vs_friend.dspadpcm.bcstm
 VS Team Skull Admin: bgm_nj_vs_scullelite.dspadpcm.bcstm
 VS Team Skull Boss: bgm_nj_vs_scullboss.dspadpcm.bcstm
 VS Team Skull Grunt: bgm_nj_vs_scull.dspadpcm.bcstm
+VS Red and Blue: bgm_nj_vs_redgreen.dspadpcm.bcstm
+VS Solgaleo / Lunala / Necrozma: bgm_nj_vs_special01.dspadpcm.bcstm
 Battle VS Ultra Beast: bgm_nj_vs_beast.dspadpcm.bcstm
 Battle Royal Battle Theme: bgm_nj_vs_broyal.dspadpcm.bcstm
 
